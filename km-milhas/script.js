@@ -1,5 +1,5 @@
 let kmDigitado = prompt("Adicione numero em Km");
-let cu = 10;
+
 
 function conversao(km){
  let milhas = 1.609; 
@@ -8,5 +8,3 @@ function conversao(km){
 }
 
 conversao(kmDigitado)
-
-conversao(cu)
