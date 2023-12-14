@@ -1,0 +1,23 @@
+{
+  "name": "desafios_js",
+  "version": "1.0.0",
+  "description": "curso de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitoria-Martins/Desafios_Js.git"
+  },
+  "keywords": [
+    "javascript",
+    "exercicios"
+  ],
+  "author": "Vitoria martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitoria-Martins/Desafios_Js/issues"
+  },
+  "homepage": "https://github.com/Vitoria-Martins/Desafios_Js#readme"
+}
